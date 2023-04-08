@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chisimdiri</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-![alt text](https://github.com/chisim30/PortfolioProject/blob/main/drug_selection_classifier/images/Histogram.png "Logo Title Text 1")
+![alt text](https://github.com/chisim30/ChisimdiriAnyaogu/blob/main/image/18131.jpg "Logo Title Text 1")
 
 - 🔭 I’m currently working on **a side project, building a dashboard for the number 1 draft picks in the NBA**
 
