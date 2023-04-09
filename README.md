@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/chisim30/ChisimdiriAnyaogu/blob/main/image/18131.jpg "Logo Title Text 1")
 
-- 🔭 I’m currently working on **a side project, building a dashboard for the number 1 draft picks in the NBA**
+- 🔭 I’m currently working on **a side project, building a dashboard to show the history of the number 1 draft picks in the NBA**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
