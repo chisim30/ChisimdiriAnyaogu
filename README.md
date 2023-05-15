@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **Python, Tableau, R programming**
 
+- Check out my SQL Blog on [Medium](https://medium.com/@anyaoguchisim30)
+
 - 📫 How to reach me **anyaoguchisim30@gmail.com**
 
 - ⚡ Fun fact **I love playing Sudoku and watching Basketball**
