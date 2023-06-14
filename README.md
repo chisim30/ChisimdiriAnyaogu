@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chisimdiri</h1>
-<h3 align="center">A passionate Data Analyst, with interest in Machine Learning and Dashboard Creation</h3>
+<h3 align="center">A passionate Data Analyst, with an interest in Machine Learning and Dashboard Creation</h3>
 
 ![alt text](https://github.com/chisim30/ChisimdiriAnyaogu/blob/main/image/18131.jpg "Logo Title Text 1")
 - 💻 I just finished **a Tableau project, building a [dashboard](https://public.tableau.com/app/profile/chisimdiri.anyaogu/viz/HistoryofFirstOverallNBADraftPick/Dashboard1) to show the history of the number 1 draft picks in the NBA**
 
-- 🔭 I’m currently working on **an 8 week SQL challenge created by Data with Danny, stay tuned.**
+- 🔭 I’m currently working on **an 8-week SQL challenge created by Data with Danny, stay tuned.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
