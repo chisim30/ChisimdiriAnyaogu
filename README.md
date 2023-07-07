@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an 8-week SQL challenge created by Data with Danny, stay tuned.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **OOP**
 
 - 👯 I’m looking to collaborate on **Dashboard and Machine Learning Projects**
 
