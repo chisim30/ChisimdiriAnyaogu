@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Python, Tableau, R programming**
 
+- Check out my [Tableau](https://public.tableau.com/app/profile/chisimdiri.anyaogu) Public Profile to see some of my amazing vizzes.
+
 - Check out my SQL Blog on [Medium](https://medium.com/@anyaoguchisim30)
 
 - 📫 How to reach me **anyaoguchisim30@gmail.com**
